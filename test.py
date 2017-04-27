@@ -5,7 +5,8 @@ def introduce():
     print("Hello, hello!!!!!!!!!!!")
 
 
-
+def shout():
+    print("AAAAA")
 
 
 def damdamdam():
